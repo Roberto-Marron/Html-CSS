@@ -1,1 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <h1>"Ejercicio de Introducción a HTML en OpenBootcamp"</h1>
+        <p>Este es mi primer comentario de dos lìneas.</p>
+        <span>Aprendiendo a documentar mi código con OpenBootcamp.</span>
 
+        <h2> Mis videos favoritos</h2>
+        <ol>
+            <li><a href="https://youtu.be/yNENVZFHutQ">
+                Feel Good Inc.(metal cover by Leo Moracchioli)</a></li>
+
+            <li><a href= "https://www.youtube.com/watch?v=5NV6Rdv1a3I">Daft Punk - Get Lucky (Official Audio) ft. Pharrell Williams, Nile Rodgers</a></li>
+
+            <li> <a href="https://youtu.be/8iJMOBcPQyg">Molotov - Frijolero</a></li>
+            </ol>
+    </body>
+</html>
